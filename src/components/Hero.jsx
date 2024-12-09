@@ -125,7 +125,7 @@ function Hero() {
     <HeroSection>
       <Overlay />
       <Content>
-        <Title>Fast & Reliable Junk Removal</Title>
+        <Title>Quick and Clean</Title>
         <Subtitle>Clear your space with ease. We’re here to help!</Subtitle>
         <ButtonContainer>
           <CTAButton>Get a Free Quote</CTAButton>
